@@ -10,3 +10,7 @@ Such configurations are common in:
 - VPN gateways
 
 The goal was not performance, but correctness and predictability.
+
+This setup was built and tested on a personal homelab server.
+Several iterations were required before achieving a stable and
+predictable configuration.
