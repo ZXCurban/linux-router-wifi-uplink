@@ -12,3 +12,6 @@ iptables rules are cleared by default and must be persisted.
 
 ## Silent failures
 Most issues did not produce errors, only broken traffic flow.
+
+The following issues were encountered during real usage
+and were not obvious from documentation alone.
