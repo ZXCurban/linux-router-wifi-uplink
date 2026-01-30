@@ -9,3 +9,18 @@ It describes a real-world setup where a Linux server is used as a router:
 - Configuration survives reboot
 
 No automation scripts are included by design.
+
+## Goals
+
+- Use a Linux server as a network edge device
+- Understand packet flow between Wi-Fi and Ethernet
+- Build a stable and reboot-safe configuration
+- Avoid hidden behavior from network managers
+
+## Documentation
+
+- [Overview](docs/overview.md)
+- [Architecture](docs/architecture.md)
+- [Implementation](docs/implementation.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- [Notes](docs/notes.md)
